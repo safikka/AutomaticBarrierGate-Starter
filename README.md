@@ -1,4 +1,4 @@
-### Automatic Barrier Gate - Starter
+# Automatic Barrier Gate - Starter
 
 Repository ini berisi sebuah aplikasi desktop GUI yang dirancang khusus untuk SBC dalam memberikan informasi yang ada pada Automatic Barrier Gate. Aplikasi ini menyediakan UI informasi untuk pengguna yang akan mengakses Automatic Barrier Gate
 
